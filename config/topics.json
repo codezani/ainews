@@ -1,0 +1,20 @@
+{
+  "keywords": [
+    { "term": "reasoning model", "weight": 2.0 },
+    { "term": "deep research", "weight": 2.0 },
+    { "term": "multimodal", "weight": 1.8 },
+    { "term": "open source llm", "weight": 1.8 },
+    { "term": "reinforcement learning", "weight": 1.7 },
+    { "term": "context window", "weight": 1.5 },
+    { "term": "inference speed", "weight": 1.5 },
+    { "term": "quantization", "weight": 1.4 },
+    { "term": "robotics", "weight": 1.3 },
+    { "term": "ai regulation", "weight": 1.2 },
+    { "term": "gemini", "weight": 1.5 },
+    { "term": "claude", "weight": 1.5 },
+    { "term": "chatgpt", "weight": 1.4 },
+    { "term": "openai", "weight": 1.5 },
+    { "term": "deepmind", "weight": 1.5 },
+    { "term": "anthropic", "weight": 1.5 }
+  ]
+}
